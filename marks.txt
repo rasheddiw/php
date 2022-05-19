@@ -1,0 +1,4 @@
+01=Babul=88
+02=Dabul=99
+03=Lulu=77
+04=Dulu=66
