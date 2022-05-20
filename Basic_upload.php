@@ -11,6 +11,7 @@
 	<?php 
 
 		$upload_dir="images";
+		//must be creat a folder beside this file by the name of images like instant upper file
 		if(isset($_FILES['fupload']))
 		{
 			$file_name=$_FILES['fupload']['name'];
